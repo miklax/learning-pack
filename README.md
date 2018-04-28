@@ -8,6 +8,5 @@
 
 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-[Eloquent JavaScript](https://eloquentjavascript.net/)
+[Eloquent JavaScript](https://eloquentjavascript.net/) (3rd edition)
 
-3rd edition
