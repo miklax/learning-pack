@@ -3,6 +3,7 @@
 ## ECMAScript
 
 [Gentle explanation of 'this' keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+Free interactive course [#JavaScript30](javascript30.com) by Wes Bos
 
 ## Books
 
