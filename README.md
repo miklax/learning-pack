@@ -12,4 +12,4 @@ Free interactive 30 days challenge [#JavaScript30](javascript30.com) by Wes Bos
 
 [Eloquent JavaScript](https://eloquentjavascript.net/) (3rd edition)
 
-[You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+[You don't know JS (Kyle Simpson)](https://github.com/getify/You-Dont-Know-JS)
