@@ -6,6 +6,10 @@
 
 Free interactive 30 days challenge [#JavaScript30](javascript30.com) by Wes Bos
 
+## CSS
+
+[Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
+
 ## Books
 
 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
