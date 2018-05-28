@@ -21,3 +21,8 @@ Free interactive 30 days challenge [#JavaScript30](javascript30.com) by Wes Bos
 ## Interactive 
 
 [30 Day Vanilla JS Coding Challenge with Wes Bos (FREE)](https://javascript30.com/)
+[FLEXBOX FROGGY](https://flexboxfroggy.com/)
+
+## API
+
+[A public list of APIs from round the web.](https://github.com/abhishekbanthia/Public-APIs)
