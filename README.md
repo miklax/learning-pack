@@ -4,8 +4,6 @@
 
 [Gentle explanation of 'this' keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
-Free interactive 30 days challenge [#JavaScript30](javascript30.com) by Wes Bos
-
 ## CSS
 
 [Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
