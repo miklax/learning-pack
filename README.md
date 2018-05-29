@@ -4,6 +4,10 @@
 
 [Gentle explanation of 'this' keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
+## React
+
+[Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+
 ## CSS
 
 [Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
