@@ -8,6 +8,8 @@
 
 [Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
 
+[React Router v4](https://reacttraining.com/react-router/web/)
+
 ## CSS
 
 [Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
