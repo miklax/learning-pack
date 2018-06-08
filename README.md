@@ -10,6 +10,8 @@
 
 [React Router v4](https://reacttraining.com/react-router/web/)
 
+[A Complete Firebase in React Authentication Tutorial (2018)](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
+
 ## CSS
 
 [Styling buttons, the right way](https://fvsch.com/code/styling-buttons/)
